@@ -1,7 +1,7 @@
 ## Currency rates for VND API
 - This API provides endpoints for fetching currency exchange rates to VND
 ### Install
-1. Install NodeJS from [nodejs.org]
+1. Install NodeJS from (nodejs.org)
 2. Install NPM packages
 ```
 npm init
