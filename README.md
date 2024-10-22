@@ -3,10 +3,12 @@
 ### Install
 1. Install NodeJS from nodejs.org
 2. Install NPM packages
-`npm init`
-`npm install express`
-`npm install @xmldom/xmldom`
-`npm install --save xml-js`
+```
+npm init
+npm install express
+npm install @xmldom/xmldom
+npm install --save xml-js
+```
 ### Usage
 - To use this API, make a GET request to the following endpoint:
   `/currency-rates`
