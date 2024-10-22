@@ -16,4 +16,4 @@ npm install --save xml-js
 - To use this API, make a GET request to the following endpoint:
   `/currency-rates`
 - Example of making a request:
-`http://localhost:3000/currency-rates`
+`http://localhost:8000/currency-rates`
