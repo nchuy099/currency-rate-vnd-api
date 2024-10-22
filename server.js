@@ -6,7 +6,7 @@ const convert = require('xml-js');
 const app = express();
 const port = process.env.PORT;
 const hostname = process.env.HOST_NAME;
-const url = process.env.VIETCOMBANK_URL;
+const url = process.env.VIETCOMBANK_URL; 
 
 app.get('/currency-rates', async(req, res) => {
 
