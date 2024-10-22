@@ -6,10 +6,13 @@
 ```
 npm init
 npm install express
+npm install dotenv --save
 npm install @xmldom/xmldom
 npm install --save xml-js
 ```
+3. Rename the `.env.example` file to `.env`
 ### Usage
+- Start the server: `node server.js` 
 - To use this API, make a GET request to the following endpoint:
   `/currency-rates`
 - Example of making a request:
